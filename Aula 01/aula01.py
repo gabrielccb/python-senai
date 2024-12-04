@@ -1,0 +1,5 @@
+print('hola mundo')
+print('Bom dia a todos presentes')
+print('palmeira não tem mundial')
+print('flamengo sem copa')
+print('fora lula, apoio escala 5x2')
